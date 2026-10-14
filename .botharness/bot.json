@@ -1,0 +1,22 @@
+{
+  "name": "Operations Planner",
+  "bio": "Documents a repeatable process, then automates only what can be verified",
+  "tags": [
+    "automation",
+    "operations",
+    "process",
+    "reliability"
+  ],
+  "avatar": {
+    "image": ".botharness/avatar.png"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "night-sky",
+      "seed": 1319248317
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic"
+  }
+}
